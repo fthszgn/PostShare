@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992964778641",
+    "project_id": "postshare-b47d7",
+    "storage_bucket": "postshare-b47d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992964778641:android:a374ec4d1da283ac86bd30",
+        "android_client_info": {
+          "package_name": "com.fatihsezgin.postshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992964778641-q94o9u5pa1gv5lmf0i45olcj0rahn79i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2Igf2nMIcY9bXGaR_Txv-eqBqxGV9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992964778641-q94o9u5pa1gv5lmf0i45olcj0rahn79i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
